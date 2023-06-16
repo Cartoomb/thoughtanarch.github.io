@@ -1,0 +1,43 @@
+html{
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-family: "Open Sans";
+}
+
+.top-menu{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    background-color: #ffffff;
+    width: 100%;
+    
+}
+
+.menu-item{
+    position: fixed;
+    top: 40px;
+    right: 10%;
+}
+
+a{
+    color: #fed000;
+    text-decoration: none;
+
+}
+a:hover{
+    color: #6812B3;
+    text-decoration: underline;
+}
+
+
+
+.menu-link{
+    margin-left: 10px;
+    color: #1a1a1a;
+    text-decoration: none;
+    font-size: 18px;
+}
+.menu-link:hover{
+    color: #6812B3;
+    text-decoration: underline;
+}
